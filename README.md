@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Hussain 👋
+Junior Developer | Python · Flutter · Data Analysis
+📍 Islamabad, Pakistan | 🌍 Open to Remote and Onsite
 
-<!--
-**HussainSheikh45/HussainSheikh45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Tech Stack
+Flutter · Dart · Python · REST APIs · AWS · Excel
 
-Here are some ideas to get you started:
+## 📌 Current Focus
+- Building ML projects with Scikit-learn & Pandas
+- Learning React & Node.js for full-stack development
+- AWS Cloud Practitioner Essentials(in progress)
+- GHL Specialist certification(in progress)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Reach me
+hussain.san321@gmail.com | linkedin.com/in/hussain-sheikh-0a559a35a
